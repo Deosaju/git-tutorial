@@ -20,3 +20,16 @@ git log
 //reverting to previous commit 
 git checkout hashvalue
 
+//pulling from online
+git pull
+
+//creating a new branch
+git branch deo
+
+//switching branch
+git checkout deo
+
+
+//.gitignore
+
+
