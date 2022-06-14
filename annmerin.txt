@@ -3,3 +3,27 @@
 Creating global user
 git config --global user.name "John Doe"
 git config --global user.email "JohnDoe@gmail.com"
+
+changes
+asdddddddddddddddddddd
+
+Creating global user
+git config --global user.name "John Doe"
+git config --global user.email "JohnDoe@gmail.com"
+
+changes
+asdddddddddddddddddddd
+
+Creating global user
+git config --global user.name "John Doe"
+git config --global user.email "JohnDoe@gmail.com"
+
+changes
+asdddddddddddddddddddd
+
+Creating global user
+git config --global user.name "John Doe"
+git config --global user.email "JohnDoe@gmail.com"
+
+changes
+asdddddddddddddddddddd
